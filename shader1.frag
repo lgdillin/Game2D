@@ -1,0 +1,9 @@
+#version 450
+
+in vec4 v_out_color;
+
+out vec4 f_out_color;
+
+void main() {
+	f_out_color = v_out_color;
+}

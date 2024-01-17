@@ -1,0 +1,12 @@
+#pragma once
+
+enum HeightZone {
+	FLOOR,
+	LOWERBODY,
+	UPPERBODY,
+	EYELEVEL,
+	FULLBODY,
+	ABOVEHEAD,
+	FULLBODYHEAD,
+	ALLHEIGHTS
+};
