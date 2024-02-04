@@ -64,7 +64,7 @@ namespace builder {
 		rotatedRectangle->initialize();
 		_shapes->push_back(rotatedRectangle);
 
-		Cir
+		//Cir
 
 		Rectangle *playerBody = new Rectangle(glm::vec3(0.0f, 3.0f, 1.0f),
 			glm::vec3(0.4f, 0.4f, 1.0f), false, 0.0f, HeightZone::LOWERBODY, "police1");
